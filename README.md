@@ -23,7 +23,7 @@ Control your Linux desktop with nothing but your webcam and hand gestures. No ex
 
 - Python 3.10+
 - A webcam
-- Linux (tested on Arch with Hyprland/i3wm)
+- Linux (tested on Arch linux)
 - `brightnessctl` for brightness control
 
 ### Install dependencies
